@@ -1,0 +1,20 @@
+.marco {
+    background-color: rgb(233, 212, 212);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#polo {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+
+#quadro {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
