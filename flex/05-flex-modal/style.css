@@ -22,6 +22,12 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
 }
 
+.main-container {
+  margin: 15px;
+  display: flex;
+  gap: 10px;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
@@ -33,6 +39,11 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  
+}
+
+.header-container {
+  display: flex;
 }
 
 .close-button {
@@ -46,6 +57,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-left: auto;
+}
+
+.text {
+  padding-right: 10px;
+  margin-bottom: 10px;
 }
 
 button {
